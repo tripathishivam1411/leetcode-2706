@@ -1,4 +1,4 @@
-Implement a solution to calculate remaining money after buying the cheapest two chocolates.
+// Implement a solution to calculate remaining money after buying the cheapest two chocolates.
 -----------------------------------------------------------------------------------------------
 
 class Solution {
